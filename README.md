@@ -10,5 +10,9 @@ Zend Engine v4.1.2, Copyright (c) Zend Technologies
 
 $ composer --version
 Composer version 2.2.5 2022-01-21 17:25:52
+
+$ php artisan --version
+Laravel Framework 8.81.0
+
 ```
 
