@@ -1,6 +1,6 @@
 # en_diary
 
-##version
+## version
 ```
 $ php -v
 PHP 8.1.2 (cli) (built: Jan 21 2022 04:34:01) (NTS)
